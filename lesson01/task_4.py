@@ -7,4 +7,3 @@ while n >= 1:
     elif n > 9:
         pass
 print("Максимальное цифра в числе ", max1)
-
